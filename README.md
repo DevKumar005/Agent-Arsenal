@@ -1,8 +1,7 @@
 # Agent Arsenal
 
 > **Equip the right skill, not the whole armory.**  
-> A curated, bloat-free reference for selecting, installing, and using AI agent skills across **Antigravity**, **Claude Code**, **OpenAI Codex CLI**, **Cursor**, **GitHub Copilot**, and **local LLMs**.  
-> **Canonical Source & Upstream Updates:** https://github.com/DevKumar005/Agent-Arsenal
+> A curated, bloat-free reference for selecting, installing, and using AI agent skills across **Antigravity**, **Claude Code**, **OpenAI Codex CLI**, **Cursor**, **GitHub Copilot**, and **local LLMs**.
 
 ---
 
