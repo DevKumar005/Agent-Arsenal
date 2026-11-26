@@ -1,0 +1,23 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Keep this hub repo free of locally installed skill artifacts
+.agents/
+.agent/
+.claude/
+.cursor/
+.codex/
+.github/skills/
+.skills.json
+skills-lock.json
+skills-library/
+project-brief.md
+node_modules/
+.env
+*.log
