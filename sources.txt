@@ -1,0 +1,23 @@
+# Agent Skills Sources
+# Add new links under [TO BE ADDED]. Once documented across this folder, move them to [ADDED].
+
+[ADDED]
+https://agentskills.io/
+https://skills.sh
+https://github.com/vercel-labs/agent-skills
+https://github.com/vercel-labs/skills
+https://github.com/anthropics/skills
+https://github.com/anthropics/skills/tree/main/skills/skill-creator
+https://github.com/google/elephant-goldfish-model
+https://github.com/GoogleChrome/modern-web-guidance
+https://github.com/GoogleChrome/lighthouse
+https://github.com/google-labs-code/stitch-skills
+https://github.com/RedHatProductSecurity/prodsec-skills
+https://github.com/trailofbits/skills
+https://playwright.dev/docs/getting-started-mcp
+https://playwright.dev/docs/test-agents
+https://playwright.dev/mcp/tools/assertions
+https://impeccable.style/
+https://github.com/garrytan/gstack
+
+[TO BE ADDED]
